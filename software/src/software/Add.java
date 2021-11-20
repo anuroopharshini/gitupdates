@@ -7,7 +7,7 @@ public class Add {
 		int x=10;
 		byte y=20;
 		int  c=(x+y);
-		System.out.println(c);
+		
 	}
 
 }
